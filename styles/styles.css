@@ -1,0 +1,29 @@
+header {
+    background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+    height: 80vh;
+    background-repeat: no-repeat;
+    margin-left: 250px;
+
+
+}
+
+.header {
+    color: white;
+    padding-top: 56px;
+    padding-right: 228px;
+
+
+
+}
+
+.header .upper_title {
+    font-size: 32px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.header .header_title {
+    font-size: 72px;
+    text-align: center;
+   
+}
