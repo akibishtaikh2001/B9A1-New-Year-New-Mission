@@ -1,5 +1,5 @@
 header {
-    background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+     background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
     height: 80vh;
     background-repeat: no-repeat;
     margin-left: 250px;
@@ -26,4 +26,32 @@ header {
     font-size: 72px;
     text-align: center;
    
+}
+/* main section start */
+.discount{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+}
+.discount_persentage{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    margin: 10px;
+}
+.deals{
+    font-size: 24px;
+    font-weight: 500;
+    color:#FF0000;
+    margin: 10px;
+}
+.categories{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+margin: 10px;
+}
+.new_year{
+    margin: 50px;
 }
